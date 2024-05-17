@@ -1,0 +1,2 @@
+﻿ID,Label,AFP,Size,Morphology,Envelope,AP,HP,AP_image,AP_seg,VP_image,VP_seg,AP_DLC,VP_DLC
+Patient id,0/1,N/P,A/B/C/D,N/P,A/B/C/D,N/P,N/P,Path to AP image file,Path to AP roi file,Path to VP image file,Path to VP roi file,AP_DLC,VP_DLC
